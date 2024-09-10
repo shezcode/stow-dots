@@ -11,6 +11,8 @@ keymap.set("n", "-", "<C-x>")
 -- Select all
 keymap.set("n", "<C-a>", "gg<S-v>G")
 
+keymap.set("n", "<Leader>ts", ":ObsidianTags<Return>")
+
 keymap.set("n", "<Leader>w", ":update<Return>", opts)
 keymap.set("n", "<Leader>q", ":quit<Return>", opts)
 keymap.set("n", "<Leader>Q", ":qa<Return>", opts)
