@@ -21,11 +21,15 @@ return {
     workspaces = {
       {
         name = "roadmap",
-        path = "~/roadmap",
+        path = "~/dev/roadmap",
       },
       {
         name = "logs",
         path = "~/logs",
+      },
+      {
+        name = "notes",
+        path = "~/dev/deez-notes/web-dev/",
       },
     },
 
