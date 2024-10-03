@@ -31,6 +31,14 @@ return {
         name = "notes",
         path = "~/dev/deez-notes/web-dev/",
       },
+      {
+        name = "books",
+        path = "~/books/",
+      },
+      {
+        name = "ciphers",
+        path = "~/dev/crypto/wiki",
+      },
     },
 
     -- see below for full list of options 👇

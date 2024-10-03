@@ -52,7 +52,7 @@ tiling_drag modifier titlebar
 bindsym $mod+Return exec alacritty
 
 # wallpaper
-# exec --no-startup-id DISPLAY=:1 feh --bg-fill ~/Downloads/a_glass_with_a_clock_on_it.jpg
+exec --no-startup-id DISPLAY=:1 feh --bg-fill ~/Downloads/a_glass_with_a_clock_on_it.jpg
 
 # kill focused window
 bindsym $mod+Shift+q kill
