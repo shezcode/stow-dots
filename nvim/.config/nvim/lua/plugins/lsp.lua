@@ -7,6 +7,7 @@ return {
         "luacheck",
         "shellcheck",
         "shfmt",
+        "csharp-language-server",
         "tailwindcss-language-server",
         "typescript-language-server",
         "css-lsp",
@@ -19,6 +20,7 @@ return {
     inlay_hints = { enabled = true },
     servers = {
       cssls = {},
+      chsarp_ls = {},
       tailwindcss = {
         root_dir = function(...)
           return require("lspconfig.util").root_pattern(".git")(...)
