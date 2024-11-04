@@ -39,6 +39,10 @@ return {
         name = "ciphers",
         path = "~/dev/crypto/wiki",
       },
+      {
+        name = "serv_info",
+        path = "~/daw2/servidor/prev/",
+      },
     },
 
     -- see below for full list of options 👇

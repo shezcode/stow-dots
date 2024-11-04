@@ -23,7 +23,7 @@ shell:
     - -l
     - -i
     - -c
-    - "/usr/bin/tmux attach -t home || /usr/bin/tmux"
+    - "/usr/bin/tmux attach -t index || /usr/bin/tmux"
 
 window:
   option_as_alt: Both
