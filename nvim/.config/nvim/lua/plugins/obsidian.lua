@@ -45,6 +45,12 @@ return {
       },
     },
 
+    templates = {
+      folder = "~/dev/obsidian-templates/",
+      date_format = "%Y-%m-%d-%a",
+      time_format = "%H:%M",
+    },
+
     -- see below for full list of options 👇
 
     -- Optional, by default when you use `:ObsidianFollowLink` on a link to an external
