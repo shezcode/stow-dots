@@ -3,7 +3,7 @@ return {
   opts = {
     ensure_installed = {
       "c",
-      "csharp",
+      "c_sharp",
       "javascript",
       "typescript",
       "css",
